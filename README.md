@@ -1,5 +1,5 @@
 # My_portfolio
-This is test portfolio
+This is a test portfolio
 
 Project 1: Created an app to search for cars. This app not only helps you search for cars, but you can save your favorites and then edit your list. 
 
